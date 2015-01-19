@@ -1,0 +1,7 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+highlighter: pygments
+auto: true # automatically update your jekyll
+server: true # runs a local server
+paginate: 5 # pagination basted on number of posts
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
